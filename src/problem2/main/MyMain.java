@@ -23,5 +23,7 @@ public class MyMain {
         obj.insert(40);
         obj.insert(30);
         obj.preVSpost();
+
+
     }
 }

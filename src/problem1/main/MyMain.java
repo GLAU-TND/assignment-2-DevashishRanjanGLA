@@ -22,4 +22,6 @@ public class MyMain {
         System.out.println("Count of Nodes not having left node");
         obj.countNotLeft();
     }
+
+
 }
